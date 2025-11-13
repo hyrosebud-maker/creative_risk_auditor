@@ -509,7 +509,7 @@ def make_kv_overlay_html(img_src: str, hotspots: list, alpha: float = 0.20) -> s
     )
 
 # ========== 7) UI ==========
-st.set_page_config(page_title="Creative Risk Auditor", page_icon="⚠️", layout="wide")
+st.set_page_config(page_title="Creative Risk Auditor2", page_icon="⚠️", layout="wide")
 st.markdown(CARD_CSS, unsafe_allow_html=True)
 st.title("⚠️ Creative Risk Auditor")
 st.caption(
